@@ -1,8 +1,8 @@
-# Codsoft-Data-Science
-Welcome to my Codsoft Data Science Internship repository! This repository contains all the tasks and projects I completed as part of the internship program. Each task showcases data science workflows, including data exploration, preprocessing, visualization, and machine learning modeling.
+# Data-Science
+Welcome to my Data Science repository! This repository contains all the tasks and projects I completed as part of the projects. Each task showcases data science workflows, including data exploration, preprocessing, visualization, and machine learning modeling.
 Table of Contents
 
-## *About the Internship*
+## *About the Project*
 
 [Tasks Overview]
 
@@ -14,9 +14,9 @@ Table of Contents
 
 [Contact]
 
-# About the Internship
+# About the Project 
 
-The Data Science internship at Codsoft involves working on real-world projects to build hands-on expertise in data analysis and machine learning. Each task is designed to enhance skills in:
+The Data Science project involves working on real-world projects to build hands-on expertise in data analysis and machine learning. Each task is designed to enhance skills in:
 
 Data preprocessing and feature engineering
 
@@ -40,7 +40,7 @@ This repository contains the following tasks:
 
 # *[Repository Structure]*
 
-Codsoft-DataScience-Internship/
+DataScience-Project/
 │
 ├── Task-1_Titanic-Survival/
 │   ├── dataset/                # Titanic dataset

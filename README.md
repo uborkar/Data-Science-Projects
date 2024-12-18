@@ -38,8 +38,8 @@ This repository contains the following tasks:
 
 *[Credit Card Fraud Detection: Detect fraudulent credit card transactions.]*()
 
-# *[Repository Structure]*
-
+## Repository Structure
+```
 DataScience-Project/
 │
 ├── Task-1_Titanic-Survival/
@@ -69,7 +69,7 @@ DataScience-Project/
 │   ├── README.md               # Task-specific documentation
 │
 └── README.md                   # General documentation for the repository
-
+```
 ## Tools and Libraries Used
 
 Programming Language: Python

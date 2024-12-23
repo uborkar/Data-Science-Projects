@@ -151,11 +151,11 @@ Add advanced visualizations and dashboards.
 
 Feel free to connect or reach out for any queries or feedback:
 
-📬 Email: [(uborkar100@gmail.com.com)]
+📬 Email:(uborkar100@gmail.com.com)
 
-🌍 GitHub: [(https://github.com/uborkar/)]
+🌍 GitHub:(https://github.com/uborkar/)
 
-🌍 LinkedIn: [(https://www.linkedin.com/in/umair-borkar/)]
+🌍 LinkedIn:(https://www.linkedin.com/in/umair-borkar/)
 
 Thank you for exploring this repository! I hope it provides value and insights into practical data science workflows.
 

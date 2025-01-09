@@ -18,8 +18,6 @@ Version Control: Git and GitHub
 
 [Task Details]
 
-[Contact]
-
 # About the Project 
 
 The Data Science project involves working on real-world projects to build hands-on expertise in data analysis and machine learning. Each task is designed to enhance skills in:
